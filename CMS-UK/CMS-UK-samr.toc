@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {1}{{Aims}}{3}{0}{1}
+\beamer@sectionintoc {2}{{Models Covered}}{4}{0}{1}
+\beamer@sectionintoc {3}{{Observables}}{5}{0}{1}
+\beamer@sectionintoc {4}{{Global Likelihood Function}}{6}{0}{1}
+\beamer@sectionintoc {5}{{CMS Constraint}}{7}{0}{1}
+\beamer@sectionintoc {6}{{CMS Constraint: Function}}{8}{0}{1}
+\beamer@sectionintoc {7}{{CMS Constraint: Parameter values}}{9}{0}{1}

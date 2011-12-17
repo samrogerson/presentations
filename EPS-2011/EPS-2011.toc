@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {2}{Aims}{3}{0}{1}
+\beamer@sectionintoc {3}{Models Covered}{4}{0}{2}
+\beamer@sectionintoc {4}{Observables}{5}{0}{3}
+\beamer@sectionintoc {5}{Global Likelihood Function}{6}{0}{4}
+\beamer@sectionintoc {6}{Search Implementations}{7}{0}{5}
+\beamer@sectionintoc {7}{Search Impact}{11}{0}{6}
+\beamer@sectionintoc {8}{The Future}{16}{0}{7}

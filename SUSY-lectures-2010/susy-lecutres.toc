@@ -1,0 +1,32 @@
+\beamer@endinputifotherversion {3.01pt}
+\beamer@sectionintoc {1}{What is supersymmetry}{3}{1}{1}
+\beamer@subsectionintoc {1}{1}{Symmetries and Physics}{4}{1}{1}
+\beamer@subsectionintoc {1}{2}{Charges and Conservation}{5}{1}{1}
+\beamer@subsectionintoc {1}{3}{Symmetries in particle physics}{6}{1}{1}
+\beamer@subsectionintoc {1}{4}{Additional Symmetry?}{7}{1}{1}
+\beamer@subsectionintoc {1}{5}{Supersymmetry is...}{8}{1}{1}
+\beamer@sectionintoc {2}{Why we need BSM physics}{9}{1}{2}
+\beamer@subsectionintoc {2}{1}{Standard Model}{10}{2}{2}
+\beamer@subsectionintoc {2}{2}{What it doesn't include}{11}{2}{2}
+\beamer@subsectionintoc {2}{3}{What does it get ``wrong''?}{12}{2}{2}
+\beamer@subsectionintoc {2}{4}{What is the hierarchy problem?}{13}{2}{2}
+\beamer@subsectionintoc {2}{5}{W-scattering cross-section}{14}{2}{2}
+\beamer@subsectionintoc {2}{6}{Divergent Higgs Mass}{15}{2}{2}
+\beamer@subsectionintoc {2}{7}{Divergent Higgs Mass Part 2}{16}{2}{2}
+\beamer@subsectionintoc {2}{8}{Why it could be SUSY}{17}{2}{2}
+\beamer@sectionintoc {3}{Constructing the details of SUSY}{19}{3}{3}
+\beamer@subsectionintoc {3}{1}{Multiplets}{19}{3}{3}
+\beamer@subsectionintoc {3}{2}{Multiplets Continued}{20}{3}{3}
+\beamer@subsectionintoc {3}{3}{More Multiplets}{21}{3}{3}
+\beamer@subsectionintoc {3}{4}{Breaking SUSY}{22}{3}{3}
+\beamer@subsectionintoc {3}{5}{What is a gauge anomaly}{23}{3}{3}
+\beamer@subsectionintoc {3}{6}{The Higgs Sector}{24}{3}{3}
+\beamer@subsectionintoc {3}{7}{The Higgs Sector Continued}{25}{3}{3}
+\beamer@subsectionintoc {3}{8}{Supersymmetry is...}{26}{3}{3}
+\beamer@sectionintoc {4}{Models of supersymmetry}{27}{3}{4}
+\beamer@subsectionintoc {4}{1}{Minimal Supersymmetric Standard Model}{28}{4}{4}
+\beamer@subsectionintoc {4}{2}{Not so natural...}{29}{4}{4}
+\beamer@subsectionintoc {4}{3}{CMSSM}{30}{4}{4}
+\beamer@subsectionintoc {4}{4}{NUHM1}{31}{4}{4}
+\beamer@subsectionintoc {4}{5}{mSUGRA}{32}{4}{4}
+\beamer@sectionintoc {5}{How is this useful?}{33}{4}{5}
