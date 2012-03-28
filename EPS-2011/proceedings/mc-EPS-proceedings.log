@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2012/dev/Arch Linux) (format=pdflatex 2011.12.9)  18 DEC 2011 18:04
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2012/dev/Arch Linux) (format=pdflatex 2012.1.20)  20 JAN 2012 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **mc-EPS-proceedings.tex
 (./mc-EPS-proceedings.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
 c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
 h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
 h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
@@ -431,7 +431,7 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./PoSlogo.pdf>]
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./PoSlogo.pdf>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 93.
  [2] [3]
@@ -458,10 +458,10 @@ Overfull \hbox (44.18799pt too wide) in paragraph at lines 233--242
 
 ] (./mc-EPS-proceedings.aux) ) 
 Here is how much of TeX's memory you used:
- 3619 strings out of 493633
- 44355 string characters out of 3148832
- 105901 words of memory out of 3000000
- 6767 multiletter control sequences out of 15000+200000
+ 3619 strings out of 493629
+ 44355 string characters out of 3148778
+ 105902 words of memory out of 3000000
+ 6771 multiletter control sequences out of 15000+200000
  92621 words of font info for 159 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  38i,15n,28p,655b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -476,7 +476,7 @@ e1/urw/symbol/usyr.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on mc-EPS-proceedings.pdf (5 pages, 211417 bytes).
+Output written on mc-EPS-proceedings.pdf (5 pages, 211593 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams
